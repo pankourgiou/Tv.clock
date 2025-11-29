@@ -3,8 +3,8 @@ import os
 
 # Greek TV channels + TV5 and BBC
 channels = [
-    "ERT1", "ERT2", "ERT3", "ANT1", "MEGA", "ALPHA",
-    "STAR", "SKAI", "OPEN", "ERT News", "TV5", "BBC"
+    "ERT1", "ERT2", "ERT3", "MEGA", "Ant1", "ALPHA",
+    "STAR", "SKAI", "OPEN", "TV5", "CNN", "BBC"
 ]
 
 def channel_clock():
